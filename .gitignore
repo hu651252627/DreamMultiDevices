@@ -1,0 +1,4 @@
+.idea/
+Report/*
+!Report/Data
+!Report/Screen
